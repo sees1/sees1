@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sees1
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning algorithm,sockets and overlay net
-- 💞️ I’m looking to collaborate with people, who want to improve language skills
+- 👀 I’m interested in C++, ROS, Navigation Stack and Robotics.
+- 🌱 I’m currently learning C++17, SLAM algo and ROS middleware
+- 💞️ I’m looking to collaborate with people, who want to improve skills in robotics
 - 📫 How to reach me | tg:@SeesWBM
 
 <!---
